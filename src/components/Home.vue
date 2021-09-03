@@ -6,7 +6,7 @@
           <img src="../assets/logo.png" alt="加载失败">
       </el-col>
   <el-col :span="18" class="middle">
-          <h1>黑马后台管理系统</h1>
+          <h1>电商后台管理系统</h1>
       </el-col>
   <el-col :span="2" >
          <a class="loginout" href="" @click.prevent="exit">退出</a>
